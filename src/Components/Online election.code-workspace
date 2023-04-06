@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Online election"
+		},
+		{
+			"path": "../../../../Projects/Online_Voting2-master/Online_Voting2-master"
+		},
+		{
+			"path": "../../../../Files IIIT Surat/CodeChef"
+		},
+		{
+			"path": "../../../../Code"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Online election"
+	}
+}
